@@ -1,0 +1,6 @@
+{
+    "/api": {
+        "target": "https://young-depths-90911.herokuapp.com",
+        "secure": false
+    }
+}

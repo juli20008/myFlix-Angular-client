@@ -1,0 +1,54 @@
+<div class="profile">
+    <h1>Your Profile</h1>
+    <div class="grid">
+      <div>
+        <p>username: {{ user.username }}</p>
+        <p>Email: {{ user.Email }}</p>
+      </div>
+      <mat-card>
+        <mat-card-content>
+          <form class="profile-form">
+            <mat-form-field>
+              <input
+                matInput
+                [(ngModel)]="userData.username"
+                placeholder="username"
+                type="text"
+                name="username"
+                required
+              >
+              </mat-form-field>
+              <mat-form-field>
+              <input
+                matInput
+                [(ngModel)]="userData.password"
+                type = "password"
+                placeholder="password"
+                name="password"
+                required
+              >
+            </mat-form-field>
+            <mat-form-field>
+              <input
+                matInput
+                [(ngModel)]="userData.Email"
+                type = "email"
+                placeholder="Email"
+                name="Email"
+                required
+              >
+            </mat-form-field>
+            <mat-card-actions>
+              <button
+                mat-raised-button
+                (click)="updateUser()"
+                color="primary"
+              >
+                Update User
+              </button>
+            </mat-card-actions>
+          </form>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </div>
