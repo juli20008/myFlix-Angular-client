@@ -4,10 +4,12 @@ MyFlix is a web application that allows users to discover and manage their favor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
-![IMG_1902](src/assets/MyflixAngular.PNG)
+https://github.com/juli20008/myFlix-Angular-client/blob/f15bf91b303695aed24922824c7fe4c7d211ed2b/src/assets/MyflixAngular.PNG
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically 
+reload if you change any of the source files.
 
 ## Code scaffolding
 
