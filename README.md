@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
+![IMG_1902](https://github.com/juli20008/MYFLIX-ANGULAR-CLIENT/assets/18193705/7a76b369-fb19-4a34-8e98-ed13c6ca140e)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
