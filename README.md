@@ -1,5 +1,7 @@
 # MyFlixAngularClient
 
+MyFlix is a web application that allows users to discover and manage their favorite movies. It provides a user-friendly interface for browsing movie details, genres, and directors. Users can create accounts, log in, and personalize their movie preferences.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ![IMG_1902](https://github.com/juli20008/MYFLIX-ANGULAR-CLIENT/assets/18193705/7a76b369-fb19-4a34-8e98-ed13c6ca140e)
@@ -19,9 +21,21 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Technologies Used
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Angular: Frontend web framework for building the user interface and interactions.
+
+TypeScript: Superset of JavaScript used for developing Angular applications.
+
+Angular Material: UI component library providing pre-built, customizable UI elements.
+
+Node.js: Backend JavaScript runtime for running the development server.
+
+MongoDB: NoSQL database for storing movie and user data.
+
+Express.js: Backend framework for creating RESTful APIs and server-side functionalities.
+
+Heroku: Cloud platform used for deployment.
 
 ## Further help
 
