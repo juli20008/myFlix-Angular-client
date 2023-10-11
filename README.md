@@ -4,7 +4,7 @@ MyFlix is a web application that allows users to discover and manage their favor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
-https://github.com/juli20008/myFlix-Angular-client/blob/f15bf91b303695aed24922824c7fe4c7d211ed2b/src/assets/MyflixAngular.PNG
+![IMG_1902](https://github.com/juli20008/myFlix-Angular-client/blob/f15bf91b303695aed24922824c7fe4c7d211ed2b/src/assets/MyflixAngular.PNG)
 
 ## Development server
 
